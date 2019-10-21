@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a791fd1e.chunk.css",
+    "main.js": "/static/js/main.3b417f71.chunk.js",
+    "main.js.map": "/static/js/main.3b417f71.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f147cbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f147cbc.js.map",
+    "static/css/2.6f57fa83.chunk.css": "/static/css/2.6f57fa83.chunk.css",
+    "static/js/2.f5ea35d7.chunk.js": "/static/js/2.f5ea35d7.chunk.js",
+    "static/js/2.f5ea35d7.chunk.js.map": "/static/js/2.f5ea35d7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6fb342285c545ce9953aa2513b0b0ee.js": "/precache-manifest.b6fb342285c545ce9953aa2513b0b0ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6f57fa83.chunk.css.map": "/static/css/2.6f57fa83.chunk.css.map",
+    "static/css/main.a791fd1e.chunk.css.map": "/static/css/main.a791fd1e.chunk.css.map",
+    "static/media/iconfont.css": "/static/media/iconfont.59d5ef6f.ttf",
+    "static/media/pic4.jpg": "/static/media/pic4.6244f7a6.jpg",
+    "static/media/长评论_03.png": "/static/media/长评论_03.b2edfa21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f147cbc.js",
+    "static/css/2.6f57fa83.chunk.css",
+    "static/js/2.f5ea35d7.chunk.js",
+    "static/css/main.a791fd1e.chunk.css",
+    "static/js/main.3b417f71.chunk.js"
+  ]
+}
